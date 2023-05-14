@@ -20,15 +20,15 @@
 
 - 💬 Ask me about **UI/UX, Data Analytics and Web Development**
 
-- 📫 How to reach me **rohangodha.official@gmail.com**
+- 📫 Reach me @ **rohangodha.official@gmail.com** or [Connect Me Here](https://linktr.ee/godharohan)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EjoRx4OxcTX8Cx_oTuEySkbaOW-o1vEk/view?usp=share_link](https://drive.google.com/file/d/1EjoRx4OxcTX8Cx_oTuEySkbaOW-o1vEk/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cJnT0u0DQMGqV_1AFM-THekcPZZaFxfU/view?usp=sharing)
 
 - ⚡ Fun fact **I will make you laugh even when you don't want to.**
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
