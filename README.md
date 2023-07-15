@@ -1,5 +1,5 @@
 [![Connect With
-Me](https://media.licdn.com/dms/image/C4D16AQHVVgxjk4tkMQ/profile-displaybackgroundimage-shrink_350_1400/0/1657878768064?e=1678320000&v=beta&t=rbIpX89ZqnP2sRvjvpGf_yWJNuKz33QK7bB_oIXBmGE)](https://linktr.ee/godharohan)
+Me]](https://linktr.ee/godharohan)
 
 <h1 align="center">Hi 👋, I'm Rohan Godha</h1>
 <h3 align="center">
