@@ -1,5 +1,4 @@
-[![Connect With
-Me](https://www.pngitem.com/pimgs/m/141-1419114_github-like-logo-web-icon-logo-emoji-github.png)](https://linktr.ee/godharohan)
+[![Connect With Me](https://www.pngitem.com/pimgs/m/141-1419114_github-like-logo-web-icon-logo-emoji-github.png)](https://linktr.ee/godharohan)
 
 <h1 align="center">Hi 👋, I'm Rohan Godha</h1>
 <h3 align="center">
@@ -35,15 +34,14 @@ Me](https://www.pngitem.com/pimgs/m/141-1419114_github-like-logo-web-icon-logo-e
   /></a>
 </p>
 
-- 🔭 I’m currently working on
-[Bibliotrex](https://github.com/RohanGodha/Bibliotrex) - 
-🌱 I’m currently learning **MERN, Svelte.js, Firebase** - 
-🤝 I’m looking for collaboration with **React and Svelte** - 
-👨‍💻 All of my projects are available at [https://github.com/RohanGodha/](https://github.com/RohanGodha/) - 
-💬 Ask me about **UI/UX, Data Analytics and Web Development** - 
-📫 Reach me @ **rohangodha.official@gmail.com** or [Connect Me Here](https://linktr.ee/godharohan) - 
-📄 Know about my experiences [About ME ](https://linktr.ee/godharohan) - 
-⚡ Fun fact **I will make you laugh even when you don't want to.**
+<h3>🔭 I’m currently working on [Bibliotrex](https://github.com/RohanGodha/Bibliotrex) </h3>
+<h3>🌱 I’m currently learning **MERN, Svelte.js, Firebase**.  </h3>
+<h3>🤝 I’m looking for collaboration with **React and Svelte**. </h3>
+<h3>👨‍💻 All of my projects are available at [https://github.com/RohanGodha/](https://github.com/RohanGodha/) </h3>
+<h3> 💬 Ask me about **UI/UX, Data Analytics and Web Development** </h3>
+<h3> 📫 Reach me @ **rohangodha.official@gmail.com** or [Connect Me Here](https://linktr.ee/godharohan) </h3>
+<h3> 📄 Know about my experiences [About ME ](https://linktr.ee/godharohan) </h3>
+<h3> ⚡ Fun fact **I will make you laugh even when you don't want to.** </h3>
 
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
