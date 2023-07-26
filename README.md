@@ -1,4 +1,4 @@
-[![Connect With Me](https://www.pngitem.com/pimgs/m/141-1419114_github-like-logo-web-icon-logo-emoji-github.png)](https://linktr.ee/godharohan)
+[![Connect With Me]([https://www.pngitem.com/pimgs/m/141-1419114_github-like-logo-web-icon-logo-emoji-github.png)](https://linktr.ee/godharohan](https://github.com/RohanGodha/RohanGodha/blob/main/github_readme.gif))
 
 <h1 align="center">Hi 👋, I'm Rohan Godha</h1>
 <h3 align="center">
